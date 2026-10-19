@@ -279,6 +279,8 @@ export default function Home() {
           <div className="partners-list" aria-label="Seguradoras parceiras">
             <strong>MAG SEGUROS</strong>
             <strong>PORTO SEGURO</strong>
+            <strong>ANADEM</strong>
+            <strong>ICATU</strong>
           </div>
         </div>
       </section>
