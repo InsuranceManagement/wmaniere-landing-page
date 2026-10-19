@@ -239,10 +239,6 @@ export default function Home() {
                 <span>protegendo histórias</span>
               </div>
               <div>
-                <strong>+100</strong>
-                <span>famílias auxiliadas</span>
-              </div>
-              <div>
                 <strong>+R$ 1 mi</strong>
                 <span>em benefícios pagos</span>
               </div>
