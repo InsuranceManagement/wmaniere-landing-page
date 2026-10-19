@@ -239,8 +239,8 @@ export default function Home() {
                 <span>protegendo histórias</span>
               </div>
               <div>
-                <strong>+R$ 1 mi</strong>
-                <span>em benefícios pagos</span>
+                <strong>+100</strong>
+                <span>famílias auxiliadas</span>
               </div>
             </div>
           </div>
@@ -278,9 +278,6 @@ export default function Home() {
           <span>Seguradoras parceiras</span>
           <div className="partners-list" aria-label="Seguradoras parceiras">
             <strong>MAG SEGUROS</strong>
-            <i />
-            <strong>ANADEM</strong>
-            <i />
             <strong>PORTO SEGURO</strong>
           </div>
         </div>
